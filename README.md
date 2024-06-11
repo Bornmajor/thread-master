@@ -13,10 +13,13 @@ This project demonstrates how to build a nested looping comment system up to the
 ## Frameworks
 1. Bootstrap v5
 
-## Screenshots
+## Usage
+Simple to setup this project.All you need is install XAMPP or any local development server in machine.All files are located in folder include database file.You will need to import sql database before starting the app.
+
+
+## Screenshots & demos
 
 https://github.com/Bornmajor/thread-master/assets/98744068/190ac5a6-0dcc-42a0-8ed6-12eee511bc97
-
 
 
 ![Screenshot (358)](https://github.com/Bornmajor/thread-master/assets/98744068/5408e90d-7f01-488a-bc41-77a2b9c67574)
