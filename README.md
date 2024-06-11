@@ -2,9 +2,16 @@
 
 Thread-Master is a PHP-based application that demonstrates how to build a nested comment system. This project is ideal for learning how to manage threaded comments in web applications, allowing for clear and organized discussions.
 
-## Libraries
-1. Jquery
-2. Bootstrap v5.
+## Problem solving
+This project demonstrates how to build a nested looping comment system up to the deepest level using PHP. It focuses on creating a robust backend with an efficient database schema to store comments and their hierarchical relationships, implementing a recursive algorithm to traverse and render the comment hierarchy, and designing a user-friendly interface to display comments in a nested format. The project addresses challenges such as efficient querying, performance optimization, and scalability to ensure the system can handle deep levels of nested comments and a large number of replies, providing a comprehensive solution for building sophisticated comment systems in web applications.
+
+## Technology used
+1. Hypertext preprocessor(PHP).
+2. MySQL for database
+3. Javascript and Ajax (building frontend)
+
+## Frameworks
+1. Bootstrap v5
 
 ## Screenshots
 
